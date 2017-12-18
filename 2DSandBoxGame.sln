@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DSandBoxGame.Plugins", "2DSandBoxGame.Plugins.csproj", "{DDB17A63-8D09-81EF-3FD5-3BB86B14850F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DSandBoxGame", "2DSandBoxGame.csproj", "{F90D7625-E3B1-3379-9690-9EB5146FF518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DSandBoxGame.Editor.Plugins", "2DSandBoxGame.Editor.Plugins.csproj", "{41D1B682-C212-CE0F-B659-BBB7C99CE507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB17A63-8D09-81EF-3FD5-3BB86B14850F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB17A63-8D09-81EF-3FD5-3BB86B14850F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB17A63-8D09-81EF-3FD5-3BB86B14850F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB17A63-8D09-81EF-3FD5-3BB86B14850F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90D7625-E3B1-3379-9690-9EB5146FF518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90D7625-E3B1-3379-9690-9EB5146FF518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90D7625-E3B1-3379-9690-9EB5146FF518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90D7625-E3B1-3379-9690-9EB5146FF518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D1B682-C212-CE0F-B659-BBB7C99CE507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D1B682-C212-CE0F-B659-BBB7C99CE507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D1B682-C212-CE0F-B659-BBB7C99CE507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D1B682-C212-CE0F-B659-BBB7C99CE507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
