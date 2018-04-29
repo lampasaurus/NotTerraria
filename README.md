@@ -1,13 +1,20 @@
 # NotTerraria
 Working:
   Character movement
-  World Generation
+
+World Generation
   
 ToDo
   World Saving
-  World switching
-  Main Menu
-  User interface
-  Block breaking/adding
-  Add items
-  Add enemies
+
+World switching
+
+Main Menu
+
+User interface
+
+Block breaking/adding
+
+Add items
+
+Add enemies
