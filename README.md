@@ -1,15 +1,25 @@
 # NotTerraria
+
+Project shelved until I have more time to commit to programming
+
 Working:
-  Character movement
+
+Character movement
 
 World Generation
   
-ToDo
-  World Saving
 
-World switching
+Partially Implemented
 
 Main Menu
+
+World Saving
+
+
+
+Not Started
+
+World switching
 
 User interface
 
